@@ -1,2 +1,2 @@
 # table-extraction
-![image1](download.jpg)
+![image1](download.png)
